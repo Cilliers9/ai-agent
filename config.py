@@ -1,0 +1,2 @@
+# config constant
+GET_FILE_CHARACTER_LIMIT = 10000
